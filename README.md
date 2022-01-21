@@ -1,2 +1,2 @@
 # secondTestRepo
-second test repo debugging git bash
+second test repo cleaning Git 
